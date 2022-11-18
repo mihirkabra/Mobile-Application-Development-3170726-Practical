@@ -1,7 +1,8 @@
 # **Mobile Application Development _(MAD) (3170726)_ Practical**
 Mobile Application Development (MAD) (Subject Code: 3170726) is an elective course which is to be studied in 7th Semester of CSE in GTU. This repository contains the practical assignments that are listed in the course curriculum.
 
-![Android](https://cdn.pixabay.com/photo/2016/12/13/18/53/android-1904852_960_720.jpg | width=250)
+![Android](https://user-images.githubusercontent.com/75306261/202649743-be5a604b-e157-449e-870d-39b38a688428.png)
+
 
 ## **Practical List**
   -> **Practical 1**: Design Login activity and implement control events : Use EditText, Checkbox and Buttons.
