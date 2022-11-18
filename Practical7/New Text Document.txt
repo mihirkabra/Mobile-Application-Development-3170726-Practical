@@ -1,2 +1,0 @@
--> https://www.tutlane.com/tutorial/android/android-styles-and-themes-with-examples
--> https://www.geeksforgeeks.org/how-to-create-drawable-resource-xml-file-in-android-studio/
